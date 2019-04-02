@@ -1,3 +1,3 @@
-# personal-typescript-starter
+# react-tudux
 
-Vincent Chen's personal typescript starter project for creating library, which tries to be simple enough.
+A react binding for [tudux](https://github.com/vincenteof/tudux).
