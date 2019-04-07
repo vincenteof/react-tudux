@@ -7,7 +7,7 @@ import json from 'rollup-plugin-json'
 export default {
   input: `src/index.ts`,
   output: [
-    { file: "dist/reactTudux.umd.js", name: "starter", format: 'umd', sourcemap: true },
+    { file: "dist/reactTudux.umd.js", name: "reactTudux", format: 'umd', sourcemap: true },
     { file: "dist/reactTudux.es5.js", format: 'es', sourcemap: true },
   ],
   external: [],

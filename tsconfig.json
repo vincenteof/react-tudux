@@ -13,7 +13,9 @@
     "outDir": "dist/lib",
     "typeRoots": [
       "node_modules/@types"
-    ]
+    ],
+    "moduleResolution": "Node",
+    "jsx": "react"
   },
   "include": [
     "src"
